@@ -1,2 +1,2 @@
-# aplikasi generator qris
+# aplikasi generator qris 
 Aplikasi kasir 
