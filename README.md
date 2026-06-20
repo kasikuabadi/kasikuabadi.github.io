@@ -1,2 +1,2 @@
-# arkasir.github.io
-Aplikasi kasir offline arkasir
+# aplikasi generator qris
+Aplikasi kasir 
